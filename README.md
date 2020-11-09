@@ -42,7 +42,7 @@ Each image can be classified into one of 43 classes
 
 ![Image-2](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-2.jpeg?raw=true "Data Preview")
 
-![Image-3](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-3.jpeg?raw=true "Data Preview")
+![Image-3](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-3.png?raw=true "Data Preview")
 
 ## Models
 
