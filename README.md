@@ -38,11 +38,11 @@ Each image can be classified into one of 43 classes
 | `Keep left` |
 | `End of no passing by vehicles over 3.5 metric tons` |
 
-![Image-1](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-1.jpg?raw=true "Data Preview")
+![Image-1](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-1.jpeg?raw=true "Data Preview")
 
-![Image-2](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-2.jpg?raw=true "Data Preview")
+![Image-2](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-2.jpeg?raw=true "Data Preview")
 
-![Image-3](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-3.jpg?raw=true "Data Preview")
+![Image-3](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/image-3.jpeg?raw=true "Data Preview")
 
 ## Models
 
@@ -52,7 +52,7 @@ Each image can be classified into one of 43 classes
 
 ## Predictions 
 
-![Prediction Image](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/final.jpg?raw=true "Prediction")
+![Prediction Image](https://github.com/ibrahim1023/traffic-sign-classification/blob/main/preview_images/final.jpeg?raw=true "Prediction")
 
 ## Dependencies
 * Pandas
